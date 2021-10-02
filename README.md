@@ -26,4 +26,4 @@ or with:
 python3 ./arweave_build.py
 ```
 
-
+trying CD
